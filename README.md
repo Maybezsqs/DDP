@@ -1,4 +1,4 @@
-# Backend
+# 通信原语 (Communication Primitives) in Distributed Systems
 
 `torch.distributed` supports three built-in backends, each with different capabilities. The table below shows which functions are available for use with CPU / CUDA tensors. MPI supports CUDA only if the implementation used to build PyTorch supports it.
 
